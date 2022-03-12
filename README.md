@@ -2,7 +2,8 @@
 Creating my own Tesla Car
 
 This repo is an attempt towards creating my own Electric Vehicle from scratch.
-The project involves the creation of:
+
+This Project Contains:
 
 1. Battery Pack
 2. Powertrain
