@@ -1,5 +1,5 @@
 # Tesla-Model-T
-Creating my own Tesla Car
+Creating my own Tesla from scratch.
 
 This repo is an attempt towards creating my own Electric Vehicle from scratch.
 
